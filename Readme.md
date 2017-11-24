@@ -1,6 +1,6 @@
 # Readme
-This is a simple script to encourage a concious usage of Facebook.  
-It requires to have a specific Firefox profile for this website and to commit to only log in using the script.  
+This is a simple script to keep track of Facebook usage.  
+It requires to have a specific Firefox profile named `facebook`. Only logins using this script will be recorded.  
 Once run, you will be prompted with something like this:
 
 		user@local_machine:~$ facebook 
@@ -15,11 +15,11 @@ Once run, you will be prompted with something like this:
 		fri nov 26 12:14:12 WET 2017 - Writting message to Alice.
 		vie nov 26 16:16:44 WET 2017 - Checking messages from Alice.
 		vie nov 28 12:18:00 WET 2017 - Sharing interesting article.
- 
+
 		Are you sure you want to launch Facebook (y/n)? y
 		What is your purpuse? Just... have some fun.
 
-As you can see, the script shows you your last 10 logins and why did you did it, helping you to be more concious of your usage.  
+As you can see, the script shows you your last 10 logins and why did you did it, helping you to be more mindful about your usage.  
 If once seen your log you consider you have spent too much time in Facebook you can tipe `n` and the following message will appear:
  
 		Are you sure you want to launch Facebook (y/n)? n
